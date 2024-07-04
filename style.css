@@ -1,0 +1,44 @@
+a[href="#"][target="_self"] {
+    text-decoration: none;
+    color: black;
+}
+
+a[href="#"][target="_blank"] {
+    text-decoration: none;
+    color: #2196F3;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    height: 252px;
+    width: 1600px;
+    background-color: #2F303A;
+    max-width: 1600px;
+}
+
+.paragraf {
+    color: #FFFFFF;
+    margin: 20px;
+}
+
+.nav-ul {
+    color:var(--decorative-color) ;
+}
+li { 
+    list-style-type: none;
+}
+
+.main {
+    height: 600px;
+    width: 1600px;
+    background-color: #2F303A;
+    max-width: 1600px;
+}
+
